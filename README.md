@@ -1,4 +1,6 @@
 # Instance-Segmentation-Of-Bolt
+Instance segmentation using Mask R-CNN on bolt dataset.
+
 
 ### Results:
 #
